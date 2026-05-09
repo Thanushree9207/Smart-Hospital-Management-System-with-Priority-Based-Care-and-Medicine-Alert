@@ -1,0 +1,6 @@
+{
+  "name": "PulsePoint: Hospital Management System",
+  "description": "A comprehensive hospital management dashboard with patient registration, doctor tracking, priority-based appointment queues, and medicine inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
